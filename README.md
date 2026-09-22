@@ -17,7 +17,7 @@ I am a detail-oriented data and business analyst with experience in:
 
 ## Portfolio
 
-📄 [View / Download My Data Entry Portfolio](./Ankita_Pawadia_Data_Entry_Portfolio.pdf)
+📄 [View / Download My Data Entry](./Ankita_Pawadia_Data_Entry.pdf)
 
 ## Core Skills
 
